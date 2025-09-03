@@ -1,0 +1,3 @@
+SLACK_BOT_TOKEN: From Slack app > OAuth & Permissions
+SLACK_SIGNING_SECRET: From Slack app > Basic Information
+OPENAI_API_KEY: From https://platform.openai.com/account/api-keys
